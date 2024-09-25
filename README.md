@@ -2,6 +2,8 @@
 
 This project fetched data from the USGS GeoJSON  API in order to map earthquake locations.
 
+To view the map as a user please [visit this page](https://vokouns.github.io/leaflet-challenge/).
+
 ### **Steps to Completion**:
 
 1. **Initialize the Leaflet Map**  
