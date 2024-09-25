@@ -8,3 +8,26 @@ body,
 html {
   height: 100%;
 }
+
+/* Add styles for the legend */
+.info.legend {
+  background-color: white;
+  padding: 6px 8px;
+  font-size: 14px;
+  line-height: 18px;
+  color: #333;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.info.legend h4 {
+  margin: 4px 0;  /* Adjust margin to reduce space above and below the title */
+}
+
+.info.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.8;
+}
